@@ -4,25 +4,6 @@
     <title>Categories on My blog</title>
     <link>/categories/</link>
     <description>Recent content in Categories on My blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Development</title>
-      <link>/categories/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/golang/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
