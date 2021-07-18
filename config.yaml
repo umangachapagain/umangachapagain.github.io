@@ -1,0 +1,53 @@
+baseurl: umangachapagain.github.io
+title: Home
+theme: ghostwriter
+languageCode: en-us
+copyright: Umanga Chapagain
+
+author:
+  name: Umanga Chapagain
+  profile: ""
+
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    tabWidth: 2
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 2
+
+params:
+  mainSections:
+    - post
+  intro: true
+  headline: Umanga Chapagain
+  description: Developer Diary
+  github: 'https://github.com/umangachapagain'
+  twitter: 'https://twitter.com/umangach'
+  email: chapagainumanga@gmail.com
+  opengraph: true
+  shareTwitter: true
+  rss: true
+  dateFormat: 'Mon, Jan 2, 2006'
+  readingTime: true
+  readingTimeText: "Estimated reading time:"
+  featured: true
+
+permalinks:
+  post: "/:year/:month/:day/:filename/"
+
+menu:
+  main:
+    - name: Blog
+      url: /blog/
+      weight: 1
+    - name: About
+      url: /about/
+      weight: 2
